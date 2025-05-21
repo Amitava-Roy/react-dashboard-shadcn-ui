@@ -6,9 +6,7 @@ A clean and responsive dashboard UI built with **React** and **Shadcn UI** as pa
 
 ## 🚀 Live Demo
 
-🔗 [Live App on Vercel](https://your-vercel-url.vercel.app) _(replace with your actual URL)_
-
----
+## 🔗 [Live App on Vercel](https://react-dashboard-shadcn-ui.vercel.app/)
 
 ## 🛠️ Tech Stack
 
